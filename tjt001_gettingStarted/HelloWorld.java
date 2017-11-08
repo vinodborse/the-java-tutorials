@@ -1,4 +1,4 @@
-package gettingStarted;
+package tjt001_gettingStarted;
 
 public class HelloWorld {
 
