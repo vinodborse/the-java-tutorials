@@ -7,7 +7,7 @@ public class BlockDemo {
 		
 		if (condition) { // begin block 1
 			System.out.println("Condition is true.");			
-		} // end block 2
+		} // end block 1
 		else { // begin block 2
 			System.out.println("Condition is false");
 		} // end block 2
